@@ -24,7 +24,7 @@
 - [Tama9.3.vcxproj.filters](./Tama9.3.vcxproj.filters)
 
 ### Звіт
-- [Tama9.pdf](./Tama9.pdf)
+- [Tama9.pdf](./Tеma9.pdf)
 
 ## Короткий опис
 У репозиторії розміщено приклади програм мовою C++, створені у Visual Studio, які демонструють:
