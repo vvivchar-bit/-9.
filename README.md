@@ -3,10 +3,8 @@
 
 ## Вміст репозиторію
 
-### Основний файл
-- [Tama9.cpp](./Tama9.cpp)
-
 ### Проєкт Visual Studio
+ [Tama9.cpp](./Tama9.cpp)
 - [Tama9.vcxproj](./Tama9.vcxproj)
 - [Tama9.vcxproj.filters](./Tama9.vcxproj.filters)
 
